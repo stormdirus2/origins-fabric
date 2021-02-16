@@ -1,8 +1,8 @@
 {
 	"powers": [
 		"origins:slow_falling",
-		"origins:fresh_air",
 		"origins:tailwind",
+		"origins:swim_speed",
 		"origins:vegetarian"
 	],
 	"icon": "minecraft:feather",
