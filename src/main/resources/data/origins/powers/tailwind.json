@@ -3,7 +3,7 @@
   "modifier": {
     "name": "Tailwind speed bonus",
     "attribute": "minecraft:generic.movement_speed",
-    "value": 0.02,
+    "value": 0.5,
     "operation": "addition"
   }
 }
